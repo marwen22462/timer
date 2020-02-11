@@ -1,0 +1,44 @@
+.container {
+  margin: 0px 35%;
+  padding-top: 100px;
+  padding-bottom: 40px;
+}
+.full-time-container {
+  display: flex;
+  justify-content: center;
+}
+.btns {
+  display: flex;
+  justify-content: center;
+}
+.btn {
+  padding: 15px 40px;
+  margin-left: 15px;
+  border-radius: 10px;
+  background-color: transparent;
+  color: rgb(159, 243, 243);
+  border-color: aqua;
+  font-size: 17px;
+  text-align: center;
+  text-decoration: none;
+}
+.btn:hover {
+  color: black;
+  background-color: aqua;
+}
+.timer-form {
+  font-size: 30px;
+  margin-left: 15px;
+  margin-bottom: 0px;
+}
+.name-hms {
+  display: flex;
+  justify-content: center;
+}
+.hms {
+  margin-left: 14px;
+  margin-top: 5px;
+  margin-bottom: 40px;
+  font-size: 15px;
+  color: rgb(202, 202, 202);
+}
